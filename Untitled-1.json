@@ -1,22 +1,22 @@
 [
     {
-        "key": "学院名称",
-        "content": "管理学院"
+        "key": "院",
+        "content": "信息科学技术学院"
     },
     {
         "key": "学号",
-        "content": "20201101"
+        "content": "2200012941"
     },
     {
         "key": "姓名",
-        "content": "zmy"
+        "content": "钟明远"
     },
     {
         "key": "专业",
         "content": "市场营销"
     },
     {
-        "key": "院系",
-        "content": "test"
+        "key": "邮箱",
+        "content": "2958932960@qq.com"
     }
 ]
