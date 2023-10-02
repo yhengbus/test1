@@ -9,10 +9,14 @@
     },
     {
         "key": "姓名",
-        "content": "张三"
+        "content": "zmy"
     },
     {
         "key": "专业",
         "content": "市场营销"
+    },
+    {
+        "key": "院系",
+        "content": "test"
     }
 ]
